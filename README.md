@@ -202,7 +202,7 @@ Not all situations you can find on StackOverflow, this AI can answer.
 First, you must know how to ask the right questions. Second, work on pieces
 of code, not one bulk. It works very well in these scenarios.
 
-## GPTs with Different Specialties
+## Gen AIs with Different Specialties
 Much like humans in different fields and subfields, GPTs now have specialties
 too. We might think that ChatGPT can answer everything GitHub Copilot can
 answer but it's not. I tried asking, say, a piece of code
