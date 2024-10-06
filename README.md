@@ -7,6 +7,43 @@ like a global catastrophe. Schools were shocked because it could
 almost answer everything, and businesses scrambled to get in on the 
 hype. AI funding and stocks hit an all-time high !
 
+## AI Hierarchy
+
+Before we delve into Gen AI, it's good to know its hierarchy.
+
+- **Artificial Intelligence (AI)**
+  - The broadest category, referring to machines or software that 
+    exhibit human-like intelligence, including reasoning, learning, 
+    and problem-solving.
+
+- **Machine Learning (ML)**
+  - A subset of AI that focuses on the development of algorithms that 
+    allow computers to learn from and make predictions based on data.
+
+- **Deep Learning (DL)**
+  - A further subset of machine learning that uses neural networks 
+    with multiple layers (hence "deep") to analyze various factors 
+    of data.
+
+- **Generative AI**
+  - A type of AI that can generate new content, including text, 
+    images, audio, and more, based on the patterns it has learned 
+    from existing data. This is where models like GPT 
+    (Generative Pre-trained Transformer) fall under.
+
+- **Large Language Models (LLMs)**
+  - A category of generative AI specifically focused on processing 
+    and generating human language. GPT models (like ChatGPT) 
+    are examples of LLMs.
+
+- **Specific Implementations**
+  - **GPT** (like ChatGPT, GPT-3, GPT-4, etc.): Specific versions 
+    of LLMs developed by OpenAI that are trained for various 
+    natural language processing tasks.
+  - Other implementations of LLMs and generative AI by different 
+    organizations (e.g., Microsoft Copilot, Google Bard, etc.) 
+    that may not be branded as GPT.
+
 ## Randomness Of Answers 
 ### Accuracy vs Creativity 
 In the past, Microsoft Copilot, the one integrated with `bing.com`, 
