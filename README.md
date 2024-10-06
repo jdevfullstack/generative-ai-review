@@ -45,7 +45,7 @@ Before we delve into Gen AI, it's good to know its hierarchy.
     organizations (e.g., Microsoft Copilot, Google Bard, etc.) 
     that may not be branded as GPT.
 
-## AI Randomness Of Answers
+## Randomness Of Answers
 
 ### Accuracy vs Creativity 
 In the past, Microsoft Copilot, the one integrated with `bing.com`, 
