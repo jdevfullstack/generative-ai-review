@@ -250,7 +250,7 @@ becoming problematic while progressing.
 First was the World of Info, where the Internet brought us a wealth of 
 knowledge. Second was Intelligent Assistants, 
 like Siri and Alexa, simplifying
-our tasks. Third is the latest AI but still based on patterns, 
+our tasks. Third is the latest GenAI but still based on patterns, 
 suggesting a future where AI not only understands patterns but also makes 
 autonomous decisions, potentially reshaping every aspect of our lives.
  
