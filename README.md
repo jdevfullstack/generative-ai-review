@@ -15,7 +15,7 @@ or accurate.
 
 ![alt text](image-3.png)
 
-This is because GPTs always work on patterns of data.
+This is because Gen AI always works on patterns of data.
 
 If I ask, say, "give me some list of personalities that ... ",
 there are times it will
