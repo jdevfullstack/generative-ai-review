@@ -2,15 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdevfullstack%2Fthoughts-on-gpt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-GPTs are everywhere ! And the hype is everywhere,
-even for the AI fundings & stocks !
-
-This came like a Global Catastrophe
-when ChatGPT was released. For those who don't
-know yet, there had been existing AIs
-in the past and were not even GPTs.
-But because ChatGPT can think like a human,
-it caught us by surprise that no AI did in the past.
+When ChatGPT was fully released to the public, it caught us off guard 
+like a global catastrophe. Schools were shocked because it could 
+almost answer everything, and businesses scrambled to get in on the 
+hype. AI funding and stocks hit an all-time high !
 
 ## Randomness Of Answers 
 ### Accuracy vs Creativity 
