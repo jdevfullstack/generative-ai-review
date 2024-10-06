@@ -26,8 +26,9 @@ Before we delve into Gen AI, it's good to know its hierarchy.
     of data.
 
 - **Generative AI**
-  - A type of AI that can generate new content, including text, 
-    images, audio, and more, based on the patterns it has learned 
+  - A further subset of deep learning, utilizing neural networks to create 
+    outputs similar to the input data. This can generate new content, 
+    including text, images, audio, and more, based on the patterns it has learned 
     from existing data. This is where models like GPT 
     (Generative Pre-trained Transformer) fall under.
 
