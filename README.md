@@ -1,4 +1,4 @@
-# My Thoughts On Generative AIs
+# My Thoughts On Generative AI
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdevfullstack%2Fthoughts-on-gpt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -9,7 +9,7 @@ hype. AI funding and stocks hit an all-time high !
 
 ## AI Hierarchy
 
-Before we delve into Gen AI, it's good to know its hierarchy.
+Before we delve into GenAI, it's good to know its hierarchy.
 
 - **Artificial Intelligence (AI)**
   - The broadest category, referring to machines or software that 
@@ -33,7 +33,7 @@ Before we delve into Gen AI, it's good to know its hierarchy.
     (Generative Pre-trained Transformer) fall under.
 
 - **Large Language Models (LLMs)**
-  - A category of generative AI specifically focused on processing 
+  - A category of Generative AI specifically focused on processing 
     and generating human language. GPT models (like ChatGPT) 
     are examples of LLMs.
 
@@ -54,7 +54,7 @@ or accurate.
 
 ![alt text](image-3.png)
 
-This is because Gen AI always works on patterns of data.
+This is because GenAI always works on patterns of data.
 
 If I ask, say, "give me some list of personalities that ... ",
 there are times it will
@@ -96,7 +96,7 @@ as of this writing,
 is really not capable of new data, so for
 deprecated or new functions, it's not capable of answering.
 
-So, yes this is one limitation of GPTs.
+So, yes this is one limitation of GenAI.
 
 ## Responsible Use
 ### Inconvenient Responsible Use
