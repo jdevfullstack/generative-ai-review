@@ -171,23 +171,23 @@ but they are also saying it's very challenging.
 I just wonder with the multitude of data they are being trained on,
 did humans really tag all of them ? It's unscalable I think so.
 
-## Individual Privacy 
-For GitHub Copilot, it only sees the code if you send it directly. Even
-if you `@workspace`, I think it's not working all the time.
-Contrary, Devin AI has full access to your setup, as reviewed by others.
+## Individual Privacy
 
-Will everyone be comfortable with this 
-full access or even the simple sign-in ?
-As for me, for critical and long discussion,
-signing-in is inevitable. But whenever I have
-the chance of not signing-in, I will do so.
-I don't even ever sign-in during Windows
-setup, not even upgrading to Windows 11.
+With GitHub Copilot, it only accesses your code when you send it directly.
+Even using `@workspace` doesn't seem to grant full codebase access all the
+time. In contrast, Devin AI has full access to your setup, as claimed by
+other users.
 
-As for more generalized GPTs like ChatGPT 
-and Microsoft Copilot, we know the issues of signing-in
-being required.
-Even Elon Musk reacted to Windows for that.
+But the question still remains: will everyone feel comfortable with this level
+of access or even the simple act of signing in? Personally, for critical
+or extended discussions, signing in feels unavoidable. However, whenever
+I can avoid it, I take that option. For example, I never sign in during
+the Windows setup, and I haven't even upgraded to Windows 11.
+
+When it comes to generalized AI systems like ChatGPT and Microsoft
+Copilot, the sign-in requirement has raised concerns. Even Elon Musk
+has expressed frustration over Windows 11 and the integration of
+Copilot into the operating system.
 
 ## GitHub Copilot as Pair Programmers For Software Engineers 
 At first, I thought it was all a gimmick. Then I tried the traditional
