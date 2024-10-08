@@ -259,10 +259,11 @@ satisfied with GitHub Copilot but
 there are already emerging 
 AI Software Engineers like Devin AI.
 
-But will we ever reach the point that it is like
-humans ? I don't think so.
-Humans will always be the ultimate judge of
- what it is capable of doing, I believe.
+But will we ever reach the point that it thinks like humans, or
+even surpasses them in intelligence, as proposed by theoretical
+AGI? I don't think so. I believe humans will always be the ultimate
+judge of what they are capable of doing. After all, letting AGI
+decide on its own without any control from humans is really dangerous.
 
 Time can only tell and I'm thrilled waiting for 
 that time on whether I can be proven wrong or not.
