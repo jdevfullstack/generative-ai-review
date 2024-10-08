@@ -214,20 +214,21 @@ Also, at least Copilot has code context which can make
 it accurate in answering.
 
 ## So What Gives ? 
-Yes, it's really helpful for humans. For coding, it's really like a
-programming partner. Of course, you will be checking the code first.
-But it can even give more suggestions. We are becoming
-very efficient in our tasks that can take hours of coding without
-this technology. The way it answers case-to-case scenarios in coding is 
-really awesome. 
+Yes, it's really helpful for humans. For coding, it's like a
+programming partner. It can even provide more suggestions. We are
+becoming very efficient in our tasks that can take hours of coding
+without this technology. The way it answers case-to-case scenarios
+in coding is really awesome. But in the end, you still need to
+check and analyze this before implementing.
 
-We all know that even if we are
-experienced in a tech stack, we can't have the full
-grasp of it because it's always evolving and even
-the documentation is too big for us. Given these GPTs, we can
-simply ask them and we will have the answers
-that we might not even realize
-/ hard to find in the multitude of documentations / guides etc. 
+We all know that even if we are experienced in a tech stack, we
+can never fully grasp it because it's always evolving, and the
+documentation can be overwhelming. With GenAI, we can simply ask
+questions and receive answers in a few minutes — answers that might
+be difficult to find in the multitude of documentation, guides,
+and resources available. Even if you're lucky enough to find a
+similar problem posted on Stack Overflow, GenAI can provide
+answers that are more specific to your situation.
 
 Can it build on its own ? Yes but it will be without a specific
 direction as it does not know what it is trying to build without
