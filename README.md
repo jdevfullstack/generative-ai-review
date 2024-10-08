@@ -230,10 +230,20 @@ and resources available. Even if you're lucky enough to find a
 similar problem posted on Stack Overflow, GenAI can provide
 answers that are more specific to your situation.
 
-Can it build on its own ? Yes but it will be without a specific
-direction as it does not know what it is trying to build without
-our guide, as we have the full understanding of the system
-we are trying to build.
+Can it build the system on its own? Yes, but it would be without
+specific direction, as it lacks the guidance needed to understand
+what it is trying to build. We, humans, have a comprehensive
+understanding of the system we're developing. Additionally, once
+you've set up the initial but fully functional codebase, relying
+entirely on tools like GitHub Copilot can lead to issues, as it
+does not possess the full context and understanding that a human
+developer does.  
+
+Actually, in the awesome demos we see, they always show that it
+can build a starter project or template right away, but in
+reality, it's only good when you are starting. Once it tries to
+modify pieces of code in an existing codebase, then it can
+become problematic.
 
 Can clients use it to build the system without any software engineer ? 
 Nope. It's only so good to build the initial setup.
