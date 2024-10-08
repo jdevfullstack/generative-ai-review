@@ -213,49 +213,41 @@ it's created for this very purpose of coding.
 Also, at least Copilot has code context which can make
 it accurate in answering.
 
-## So What Gives ? 
-Yes, it's really helpful for humans. For coding, it's like a
-programming partner. It can even provide more suggestions. We are
-becoming very efficient in our tasks that can take hours of coding
-without this technology. The way it answers case-to-case scenarios
-in coding is really awesome. But in the end, you still need to
-check and analyze this before implementing.
+## So What Gives?
 
-We all know that even if we are experienced in a tech stack, we
-can never fully grasp it because it's always evolving, and the
-documentation can be overwhelming. With GenAI, we can simply ask
-questions and receive answers in a few minutes — answers that might
-be difficult to find in the multitude of documentation, guides,
-and resources available. Even if you're lucky enough to find a
-similar problem posted on Stack Overflow, GenAI can provide
-answers that are more specific to your situation.
+Yes, AI tools are helpful for humans, even in coding. They
+act like programming partners, providing efficient suggestions
+and saving time. However, you still need to check and analyze
+the AI's output before implementing it.
 
-Can it build the system on its own? Yes, but it would be without
-specific direction, as it lacks the guidance needed to understand
-what it is trying to build. We, humans, have a comprehensive
-understanding of the system we're developing. Additionally, once
-you've set up the initial but fully functional codebase, relying
-entirely on tools like GitHub Copilot can lead to issues, as it
-does not possess the full context and understanding that a human
-developer does.  
+Even experienced developers can’t fully grasp every aspect of
+an evolving tech stack. GenAI helps by answering questions in
+minutes, delivering more context-specific responses than what
+you might find on Stack Overflow or through documentation.
 
-Actually, in the awesome demos we see, they always show that it
-can build a starter project or template right away, but in
-reality, it's only good when you are starting. Once it tries to
-modify pieces of code in an existing codebase, then it can
-become problematic.
+While AI can build a system, it lacks direction without human
+input. Once you have a fully functional codebase, relying too
+much on tools like GitHub Copilot can cause issues, as they
+don't understand the system as well as human developers do.
 
-Can clients use it to build the system without any software engineer ? 
-Nope. It's only so good to build the initial setup.
-Anyone at least must have some understanding in
-coding and basic knowledge of the tech stack. 
-Even so, when it's combining all the pieces of code together,
-it will surely have its own problems that developers can only understand.
-I tried this in one sample project pretending
-I was just commanding it to write every functionality of the system
-and in the end, I needed to understand every piece 
-of code it was suggesting because it was 
-becoming problematic while progressing.
+In demos, AI can build starter projects, but its usefulness
+diminishes when modifying existing code. Clients can't use AI
+to build entire systems without a developer, as they'll still
+face challenges piecing everything together and solving problems
+only developers understand.
+
+### Key Points:
+
+- **Coding Partner**: AI acts as a coding assistant but still requires
+  human oversight for accuracy.
+- **Time-Saving**: GenAI provides quick, specific answers, often faster
+  and more tailored than searching documentation or forums.
+- **Initial Setup**: AI is great for building starter templates but
+  struggles with established, complex codebases.
+- **Developer Expertise**: Human developers remain essential for
+  system direction, combining code, and solving nuanced problems.
+- **Challenges with Existing Code**: AI becomes problematic when
+  modifying or integrating within an existing codebase.
  
 ## What The Future Holds 
 First was the World of Info, where the Internet brought us a wealth of 
