@@ -213,7 +213,7 @@ it's created for this very purpose of coding.
 Also, at least Copilot has code context which can make
 it accurate in answering.
 
-## So What Gives?
+## So What Gives ?
 
 Yes, AI tools are helpful for humans, even in coding. They
 act like programming partners, providing efficient suggestions
