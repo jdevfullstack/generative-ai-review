@@ -236,6 +236,12 @@ to build entire systems without a developer, as they'll still
 face challenges piecing everything together and solving problems
 only developers understand.
 
+In my estimation, we primarily use generative AI (GenAI) for quick
+information, but traditional sources from the web remain irreplaceable.
+While we might rely on GenAI for about 75% of our needs, we still
+verify the information against reputable sources on the web for the
+remaining 25%.
+
 ### Key Points:
 
 - **Coding Partner**: AI acts as a coding assistant but still requires
