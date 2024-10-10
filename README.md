@@ -186,7 +186,7 @@ the Windows setup, and I haven't even upgraded to Windows 11.
 
 When it comes to generalized AI systems like ChatGPT and Microsoft
 Copilot, the sign-in requirement has raised concerns. Even Elon Musk
-has expressed frustration over Windows 11 and the integration of
+expressed frustration over Windows 11 and the integration of
 Copilot into the operating system.
 
 ## GitHub Copilot as Pair Programmers For Software Engineers 
