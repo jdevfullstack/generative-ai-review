@@ -128,42 +128,20 @@ Currently, I’m using it with the updated UI, and I no longer see
 these limitations, but I cannot yet verify any changes regarding
 this limitation.
 
-## True Intelligence 
-### Human Replacement 
-We let any GPT do what it's best at. But creativity, 
-innovation and critical decisions are still left for 
-humans. I believe it will never be a true replacement for humans 
-when our very own understanding of human 
-consciousness is still shrouded in mystery.
+## True Intelligence
 
-Back in the days, when the Internet was booming, 
-we, teachers, were shocked that almost everything
-could be learned online and were doubting if we would ever
-be replaced by a simple Google Search. It turned out, 
-the world moved on, but retained even the traditional schools.
-The Internet became complementary tools for Education
-and there was a paradigm shift that teachers are no longer
-the main source of info. Yet, traditional schools
-stood the test of time.
+Generative AI (GenAI) is a type of narrow AI that responds based on
+trained data. It excels at creating content like text, images, and music,
+but its capabilities are limited to the patterns it has learned. It was
+never intended as True Intelligence.
 
-Even today, say, when someone is an aspiring 
-Software Developer, he / she can learn 
-everything online. Despite that, many are still 
-buying courses / enrolling in bootcamps. 
-It seems the human touch is still preferred.
+In contrast, Artificial General Intelligence (AGI) is a theoretical
+concept that aims to surpass human intelligence. Unlike GenAI, AGI will
+not branch off from any GenAI we have now; it is independent and seeks
+to replicate the full range of human cognitive abilities, though it has
+its own nuances.
 
-### Common Sense
-We call that `common sense` but the concept is not 
-that common or even simple. We humans are fully capable of 
-common sense, no animal is even close to our 
-level of common sense. So I think this one will be very
-hard to achieve even by AGI.
-
-### Human Understanding 
-Same as consciousness that is well reserved for humans, 
-Human Understanding as I believe will be very hard to 
-achieve, particularly if it's 
-coupled by emotions and context.
+So, in short, GenAI ended up just like any other human tool.
 
 ## Misinformation & Disinformation 
 Even them battle misinformation and disinformation.
