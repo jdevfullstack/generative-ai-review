@@ -96,15 +96,16 @@ deprecated or newly introduced functions.
 So, yes, this is one limitation of GenAI.
 
 ## Responsible Use
+
 ### Inconvenient Responsible Use
-When I'm too engrossed in asking and knowing the answer from
-GitHub Copilot and then all of sudden, it will be blurred, tagged as
-"Responsible Use of AI". It's very inconvenient, right ? 
+When I'm too engrossed in asking questions and seeking answers from 
+GitHub Copilot, it can suddenly blur or tag my inquiries as "Responsible 
+Use of AI" in certain situations. This can be quite inconvenient, right ?
 
 ### Answers Are Not Transparent
-You can't get answers from sensitive or
-inappropriate topics. It will even
-answer that way if you ask it.
+You can't get answers on sensitive or inappropriate topics. Even 
+when you ask about such topics, it will respond in a way that 
+reflects this limitation.
 
 ![alt text](image-2.png)
 
