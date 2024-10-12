@@ -74,29 +74,26 @@ So humans still need to double check the reliability of data.
 Even Microsoft Copilot, as of this writing too,
 has the disclaimer : "Copilot uses AI. Check for mistakes."
 
-## Dealing With Latest Info
-Both ChatGPT and Microsoft Copilot are now capable 
-of searching the latest info on the Web.
+## Dealing with the Latest Information
 
-Though I wonder how good they are in correctly
-answering the questions because
-maybe they are not trained on this new data ?
-Also, what if it is new content that is
-misleading ? Do they have misinformation and
-disinformation checks ?
+Both ChatGPT and Microsoft Copilot can now search for the latest 
+information on the web.
 
-They can also learn something new through
-human interactions but only in those
-interactions, not persistent across all
-interactions because primarily 
-they are not trained with those.
+However, I wonder how accurately they can answer questions based on 
+this data. Are they truly trained on the most recent information? 
+Additionally, what happens if the new content they access is 
+misleading? Do they have systems in place to check for misinformation 
+and disinformation?
 
-As for GitHub Copilot, the one tailored for programmers,
-as of this writing,
-is really not capable of new data, so for
-deprecated or new functions, it's not capable of answering.
+These AI models can learn from human interactions, but this learning 
+is limited to individual sessions and does not persist across all 
+interactions, as they are not primarily trained on that data.
 
-So, yes this is one limitation of GenAI.
+As for GitHub Copilot, which is tailored for programmers, it currently 
+does not have access to new data. Therefore, it may struggle with 
+deprecated or newly introduced functions.
+
+So, yes, this is one limitation of GenAI.
 
 ## Responsible Use
 ### Inconvenient Responsible Use
