@@ -76,21 +76,21 @@ has the disclaimer : "Copilot uses AI. Check for mistakes."
 
 ## Dealing with the Latest Information
 
-Both ChatGPT and Microsoft Copilot can now search for the latest 
+Both ChatGPT and Microsoft Copilot can now search for the latest
 information on the web.
 
-However, I wonder how accurately they can answer questions based on 
-this data. Are they truly trained on the most recent information? 
-Additionally, what happens if the new content they access is 
-misleading? Do they have systems in place to check for misinformation 
+However, I wonder how accurately they can answer questions based on
+this data. Are they truly trained on the most recent information?
+Additionally, what happens if the new content they access is
+misleading? Do they have systems in place to check for misinformation
 and disinformation?
 
-These AI models can learn from human interactions, but this learning 
-is limited to individual sessions and does not persist across all 
+These AI models can learn from human interactions, but this learning
+is limited to individual sessions and does not persist across all
 interactions, as they are not primarily trained on that data.
 
-As for GitHub Copilot, which is tailored for programmers, it currently 
-does not have access to new data. Therefore, it may struggle with 
+As for GitHub Copilot, which is tailored for programmers, it currently
+does not have access to new data. Therefore, it may struggle with
 deprecated or newly introduced functions.
 
 So, yes, this is one limitation of GenAI.
@@ -98,13 +98,13 @@ So, yes, this is one limitation of GenAI.
 ## Responsible Use
 
 ### Inconvenient Responsible Use
-When I'm too engrossed in asking questions and seeking answers from 
-GitHub Copilot, it can suddenly blur or tag my inquiries as "Responsible 
+When I'm too engrossed in asking questions and seeking answers from
+GitHub Copilot, it can suddenly blur or tag my inquiries as "Responsible
 Use of AI" in certain situations. This can be quite inconvenient, right ?
 
 ### Answers Are Not Transparent
-You can't get answers on sensitive or inappropriate topics. Even 
-when you ask about such topics, it will respond in a way that 
+You can't get answers on sensitive or inappropriate topics. Even
+when you ask about such topics, it will respond in a way that
 reflects this limitation.
 
 ![alt text](image-2.png)
