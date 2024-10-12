@@ -109,20 +109,24 @@ reflects this limitation.
 
 ![alt text](image-2.png)
 
-## Downtimes And Limits
-Because of the demand, I've experienced a lot of downtimes and rate
-limiting when using different GPTs.
-Imagine being too engrossed in coding with a continuous discussion
-then all of a sudden, it failed to answer and your train of thought
-was lost because of that ! That happens all the time.
+## Downtimes and Limits
 
-ChatGPT Web is a hell of a crazy thing. It always hangs ! 
-Though if you close and reopen the session, 
-you'll see it has completed the answer.
+In the past, I frequently encountered downtimes and rate limiting when
+using different GPTs due to high demand. Imagine being deeply engrossed
+in coding during a continuous discussion, only for it to suddenly fail
+to answer, causing you to lose your train of thought ! This used to
+happen all the time.
 
-Without signing-in, as of this writing, Microsoft Copilot 
-on the Web is limited to 4 questions only 
-while the mobile app is 10.
+ChatGPT Web was quite frustrating, often hanging during use. In my
+experience, even though it was hanging, closing and reopening the
+session would complete the answer. However, it has recently improved,
+allowing for continued use.
+
+In the past, without signing in, Microsoft Copilot on the Web was
+limited to 4 questions, while the mobile app allowed for 10.
+Currently, I’m using it with the updated UI, and I no longer see
+these limitations, but I cannot yet verify any changes regarding
+this limitation.
 
 ## True Intelligence 
 ### Human Replacement 
